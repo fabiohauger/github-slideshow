@@ -18,7 +18,12 @@
         "taxes_paid": 0.0,
         "block_order_set_id": 1,
         "turnover_to_target_pre_trade": 0.08466909,
-        "turnover_to_target_post_trade": 0.06362617
+        "turnover_to_target_post_trade": 0.06362617,
+	"tracking_error_to_target_post_trade": 0,
+	"optimization_time_in_seconds": 0,
+	"tracking_error_to_target_pre_trade": 0,
+	"relative_tracking_error_to_target_post_trade": 0,
+	"relative_tracking_error_to_target_pre_trade": 0
     },
     {
         "pf_id": "wkBeTTKHRtkJbQ3rnpbgC2",
